@@ -57,4 +57,19 @@ To set up the project locally, follow these steps:
     - **SQL Server**: Configure SQL Server and provide the connection details in the project's configuration files.
 
     - **Power BI**: Set up Power BI and configure it for data visualization as needed by the project.
+      
+  ## Usage
+
+The **Health-Situation-in-Morocco** project is designed to provide valuable insights into the healthcare sector in Morocco, with comparisons to other countries. Here’s how this project can be useful:
+
+- **Assessment of Healthcare Levels in Morocco**: The project helps understand the state of the healthcare sector in Morocco by providing detailed data on the number of existing hospitals, as well as the growth rate of these facilities over time.
+
+- **Regional Analysis of Doctors**: It allows for examining the distribution of doctors across different regions of Morocco, providing an overview of medical access on a regional scale.
+
+- **International Comparison**: Although the project primarily focuses on Morocco, the collected and analyzed data can be used to compare Morocco’s healthcare situation with that of other countries. This includes comparing hospital infrastructure and medical resources available relative to other regions.
+
+- **Tracking the Evolution of Medical Resources**: The project enables tracking the evolution of the number of hospitals and doctors over time, providing key indicators to assess the improvement or deterioration of healthcare services in the country.
+
+By using this project, policymakers, researchers, and analysts can gain a clearer and more comprehensive view of the healthcare situation in Morocco, as well as useful comparisons with other countries to better understand the strengths and challenges of the Moroccan healthcare system.
+
 
