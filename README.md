@@ -85,7 +85,7 @@ The **Health-Situation-in-Morocco** project has faced several challenges during 
 - **Use of Verified Data**: Ensure that the project relies solely on verified open-source data from reputable sources such as the Ministry of Health, HCP, and CNOPS. This will enhance the accuracy of the analysis and prevent reliance on unverifiable data sources.
 ## 🛠 Tools
 
-- **Dagster** <img src="https://image.emojisky.com/800/4157800-middle.png" alt="Dagster Icon" width="20"/>
+- **Dagster** 
 - **SQL Server**
 - **Azure Portal**
   - **Azure Data Factory**
@@ -93,5 +93,12 @@ The **Health-Situation-in-Morocco** project has faced several challenges during 
   - **Azure Data Lake Storage Gen2**
   - **Azure Synapse Analytics**
 - **Power BI**
+## 🏗️ Architecture
+
+
+Voici une illustration de l'architecture du projet :
+
+![Architecture Image](https://example.com/1.gif)
+
 ## 🔗 Contact
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiha-el-mansouri-27505b250/)
