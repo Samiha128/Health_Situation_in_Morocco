@@ -94,7 +94,71 @@ The **Health-Situation-in-Morocco** project has faced several challenges during 
   - **Azure Synapse Analytics**
 - **Power BI**
 ## 🏗️ Architecture
-
+```
+Health-Situation-in-Morocco
+│ README.md
+│
+├── data
+│ ├── Effectif des assurés actifs par Tranche d'âge.csv
+│ ├── Health in Morocco_wikipedia.csv
+│ ├── Indicateurs sur les déclarations de salaires CNSS effectuées au titre de l'année 2020 (cnss).csv
+│ ├── Suicide deaths.csv
+│ ├── calcule.csv
+│ ├── indic-soc-sante-mef-2014-3 MEF.csv
+│ ├── indicateur-sur-la-repartition-des-affilies-par-region.csv
+│ ├── indicateur-sur-la-repartition-des-affilies-par-secteur-dactivite cnss.csv
+│ ├── infrastructures-privees-2022.csv
+│ ├── offre-de-soins-privees-ms-2013.csv
+│ └── stastique.csv
+│
+├── env
+│ ├── .nux
+│ ├── .telemetry
+│ ├── Include/site/python3.12/greenlet
+│ ├── Lib/site-packages
+│ ├── Scripts
+│ ├── history
+│ ├── logs
+│ ├── schedules
+│ ├── storage
+│ ├── dagster.yaml
+│ └── pyvenv.cfg
+│
+├── etl
+│ ├── etl
+│ ├── etl_tests
+│ ├── README.md
+│ ├── pyproject.toml
+│ ├── setup.cfg
+│ ├── setup.py
+│ └── stastique.csv
+│
+├── images
+│ ├── Data-factory.png
+│ ├── account storage.png
+│ ├── architecture.gif
+│ ├── architecture.png
+│ ├── containers.png
+│ ├── dagster.png
+│ ├── dagsterpipeline.png
+│ ├── data ingestion 1.png
+│ ├── data ingestion 2.png
+│ ├── datastorage.png
+│ ├── df.png
+│ ├── dfliason.png
+│ ├── effectif total.png
+│ ├── folder-2.png
+│ ├── folder1.png
+│ ├── health.png
+│ ├── permission.png
+│ ├── permission1.png
+│ ├── role.png
+│ └── sqlserver.png
+│
+├── HealthCare.pbix
+├── SQLQuery1.sql
+└── health.ipynb
+```
 
 ![Architecture Image](images/architecture.gif)
 
