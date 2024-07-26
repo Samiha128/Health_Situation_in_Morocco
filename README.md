@@ -165,7 +165,9 @@ Health-Situation-in-Morocco
 ##  📈 Dashboard
  - For visualizing the data and performing detailed analyses, we have utilized Power BI. This tool allows us to create interactive and insightful dashboards that provide a comprehensive view of the health data
    
+![dashboard](images/dashbord_home)
 
+![dashboard2](images/dashbord_detail)
 
 ## 🔗 Contact
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiha-el-mansouri-27505b250/)
