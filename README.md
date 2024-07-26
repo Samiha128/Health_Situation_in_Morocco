@@ -1,6 +1,6 @@
 # Health-Situation-in-Morocco
 
-## Table of Contents
+## Table of Contents 📋
 - [Overview](#overview)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -26,7 +26,7 @@ The **Health-Situation-in-Morocco** project focuses on analyzing the private hea
 
 The project aims to offer valuable insights into the private healthcare sector’s capacity, distribution, and resource allocation, facilitating better decision-making and planning for health services improvements.
 
-## Installation
+##  🛠️ Installation
 
 To set up the project locally, follow these steps:
 
@@ -59,7 +59,7 @@ To set up the project locally, follow these steps:
 
     - **Power BI**: Set up Power BI and configure it for data visualization as needed by the project.
       
-  ## Usage
+  ## Usage 🔍
 
 The **Health-Situation-in-Morocco** project is designed to provide valuable insights into the healthcare sector in Morocco, with comparisons to other countries. Here’s how this project can be useful:
 
@@ -73,7 +73,7 @@ The **Health-Situation-in-Morocco** project is designed to provide valuable insi
 
 By using this project, policymakers, researchers, and analysts can gain a clearer and more comprehensive view of the healthcare situation in Morocco, as well as useful comparisons with other countries to better understand the strengths and challenges of the Moroccan healthcare system.
 
-## Difficulties
+## Difficulties ⚠️
 
 The **Health-Situation-in-Morocco** project has faced several challenges during its development. Some of the key difficulties include:
 
@@ -85,13 +85,13 @@ The **Health-Situation-in-Morocco** project has faced several challenges during 
 - **Use of Verified Data**: Ensure that the project relies solely on verified open-source data from reputable sources such as the Ministry of Health, HCP, and CNOPS. This will enhance the accuracy of the analysis and prevent reliance on unverifiable data sources.
 ## 🛠 Tools
 
-- **Dagster**
-- **SQL Server**
-- **Azure Portal**
-  - **Azure Data Factory**
-  - **Databricks (PySpark)**
-  - **Azure Data Lake Storage Gen2**
-  - **Azure Synapse Analytics**
-- **Power BI**
+- **Dagster** ![Dagster Icon](https://img.icons8.com/ios/50/000000/data-pipeline.png)
+- **SQL Server** ![SQL Server Icon](https://img.icons8.com/ios/50/000000/microsoft-sql-server.png)
+- **Azure Portal** ![Azure Portal Icon](https://img.icons8.com/ios/50/000000/azure.png)
+  - **Azure Data Factory** ![Azure Data Factory Icon](https://img.icons8.com/ios/50/000000/data-factory.png)
+  - **Databricks (PySpark)** ![Databricks Icon](https://img.icons8.com/ios/50/000000/Databricks.png)
+  - **Azure Data Lake Storage Gen2** ![Azure Data Lake Storage Gen2 Icon](https://img.icons8.com/ios/50/000000/azure-data-lake.png)
+  - **Azure Synapse Analytics** ![Azure Synapse Analytics Icon](https://img.icons8.com/ios/50/000000/azure-synapse.png)
+- **Power BI** ![Power BI Icon](https://img.icons8.com/ios/50/000000/power-bi.png)
 ## 🔗 Contact
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiha-el-mansouri-27505b250/)
