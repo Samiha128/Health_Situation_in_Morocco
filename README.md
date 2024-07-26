@@ -7,8 +7,9 @@
 - [Difficulties](#difficulties)
 - [Points to Improve](#points-to-improve)
 - [Tools](#tools)
-- [Contributing](#contributing)
-- [License](#license)
+- [Architecture](#architecture)
+- [Dashboard](#dashboard)
+- [Contact](#contact)
   
 ## Overview
 
