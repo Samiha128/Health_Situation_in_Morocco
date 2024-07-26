@@ -72,4 +72,24 @@ The **Health-Situation-in-Morocco** project is designed to provide valuable insi
 
 By using this project, policymakers, researchers, and analysts can gain a clearer and more comprehensive view of the healthcare situation in Morocco, as well as useful comparisons with other countries to better understand the strengths and challenges of the Moroccan healthcare system.
 
+## Difficulties
+
+The **Health-Situation-in-Morocco** project has faced several challenges during its development. Some of the key difficulties include:
+
+- **Cloud-Based Development**: The project is developed in a cloud environment, which has introduced complexities in managing and analyzing data. Working in the cloud requires careful handling of cloud-specific tools and configurations, which can sometimes complicate the development process.
+
+- **Incomplete Sharing of Project Process**: One significant challenge has been the partial sharing of the project process. Certain aspects of the project's development and workflow have not been fully documented or shared, which can create difficulties in understanding and replicating the process. This lack of comprehensive documentation can hinder collaboration and make it challenging for new contributors to get up to speed.
+## Points to Improve
+
+- **Use of Verified Data**: Ensure that the project relies solely on verified open-source data from reputable sources such as the Ministry of Health, HCP, and CNOPS. This will enhance the accuracy of the analysis and prevent reliance on unverifiable data sources.
+## Tools
+
+- **Dagster**
+- **SQL Server**
+- **Azure Portal**
+  - **Azure Data Factory**
+  - **Databricks (PySpark)**
+  - **Azure Data Lake Storage Gen2**
+  - **Azure Synapse Analytics**
+- **Power BI**
 
