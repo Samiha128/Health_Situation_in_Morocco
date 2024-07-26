@@ -11,7 +11,7 @@
 - [Dashboard](#dashboard)
 - [Contact](#contact)
   
-## Overview
+## 🚀 Overview
 
 The **Health-Situation-in-Morocco** project focuses on analyzing the private healthcare sector in Morocco. This project aims to provide a comprehensive assessment of various health infrastructure indicators across different regions of the country. Key aspects of the analysis include:
 
@@ -83,7 +83,7 @@ The **Health-Situation-in-Morocco** project has faced several challenges during 
 ## Points to Improve
 
 - **Use of Verified Data**: Ensure that the project relies solely on verified open-source data from reputable sources such as the Ministry of Health, HCP, and CNOPS. This will enhance the accuracy of the analysis and prevent reliance on unverifiable data sources.
-## Tools
+## 🛠 Tools
 
 - **Dagster**
 - **SQL Server**
@@ -93,4 +93,5 @@ The **Health-Situation-in-Morocco** project has faced several challenges during 
   - **Azure Data Lake Storage Gen2**
   - **Azure Synapse Analytics**
 - **Power BI**
-
+## 🔗 Contact
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiha-el-mansouri-27505b250/)
