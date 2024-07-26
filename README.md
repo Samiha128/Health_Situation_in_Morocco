@@ -85,13 +85,13 @@ The **Health-Situation-in-Morocco** project has faced several challenges during 
 - **Use of Verified Data**: Ensure that the project relies solely on verified open-source data from reputable sources such as the Ministry of Health, HCP, and CNOPS. This will enhance the accuracy of the analysis and prevent reliance on unverifiable data sources.
 ## 🛠 Tools
 
-- **Dagster** ![Dagster Icon](https://img.icons8.com/ios/50/000000/data-pipeline.png)
-- **SQL Server** ![SQL Server Icon](https://img.icons8.com/ios/50/000000/microsoft-sql-server.png)
-- **Azure Portal** ![Azure Portal Icon](https://img.icons8.com/ios/50/000000/azure.png)
-  - **Azure Data Factory** ![Azure Data Factory Icon](https://img.icons8.com/ios/50/000000/data-factory.png)
-  - **Databricks (PySpark)** ![Databricks Icon](https://img.icons8.com/ios/50/000000/Databricks.png)
-  - **Azure Data Lake Storage Gen2** ![Azure Data Lake Storage Gen2 Icon](https://img.icons8.com/ios/50/000000/azure-data-lake.png)
-  - **Azure Synapse Analytics** ![Azure Synapse Analytics Icon](https://img.icons8.com/ios/50/000000/azure-synapse.png)
-- **Power BI** ![Power BI Icon](https://img.icons8.com/ios/50/000000/power-bi.png)
+- **Dagster** ![Dagster Icon](https://dagster.io/images/brand/logos/dagster-primary-mark.jpg)
+- **SQL Server**
+- **Azure Portal**
+  - **Azure Data Factory**
+  - **Databricks (PySpark)**
+  - **Azure Data Lake Storage Gen2**
+  - **Azure Synapse Analytics**
+- **Power BI**
 ## 🔗 Contact
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiha-el-mansouri-27505b250/)
