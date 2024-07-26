@@ -96,7 +96,7 @@ The **Health-Situation-in-Morocco** project has faced several challenges during 
 ## 🏗️ Architecture
 
 
-![Architecture Image](images/architecture.gif)
+![Architecture Image](../images/architecture.gif)
 
 ## 🔗 Contact
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiha-el-mansouri-27505b250/)
