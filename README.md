@@ -24,7 +24,7 @@ The **Health-Situation-in-Morocco** project focuses on analyzing the private hea
 - **Population per Nurse**: Evaluating the ratio of residents to nurses to gauge healthcare accessibility.
 - **Evolution of Primary Healthcare Facilities**: Monitoring the growth and changes in primary healthcare establishments over time.
 
-The project aims to offer valuable insights into the private healthcare sector’s capacity, distribution, and resource allocation, facilitating better decision-making and planning for health services improvements.
+
 
 ##  🛠️ Installation
 
@@ -71,7 +71,7 @@ The **Health-Situation-in-Morocco** project is designed to provide valuable insi
 
 - **Tracking the Evolution of Medical Resources**: The project enables tracking the evolution of the number of hospitals and doctors over time, providing key indicators to assess the improvement or deterioration of healthcare services in the country.
 
-By using this project, policymakers, researchers, and analysts can gain a clearer and more comprehensive view of the healthcare situation in Morocco, as well as useful comparisons with other countries to better understand the strengths and challenges of the Moroccan healthcare system.
+
 
 ## Difficulties ⚠️
 
@@ -170,4 +170,6 @@ Health-Situation-in-Morocco
 ![dashboard2](images/dashbord_home.png)
 
 ## 🔗 Contact
+For more information or inquiries about the project, please feel free to contact me via LinkedIn:
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiha-el-mansouri-27505b250/)
