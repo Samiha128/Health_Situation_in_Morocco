@@ -10,7 +10,7 @@
 - [Architecture](#architecture)
 - [Dashboard](#dashboard)
 - [Contact](#contact)
-  
+
 ## 🚀 Overview
 
 The **Health-Situation-in-Morocco** project focuses on analyzing the private healthcare sector in Morocco. This project aims to provide a comprehensive assessment of various health infrastructure indicators across different regions of the country. Key aspects of the analysis include:
